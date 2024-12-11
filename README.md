@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ###
@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Manish kumar singh from knowhere <br><br>- 🔭 I’m working as a Unreal Developer.<br>- 📚 I'm currently learning Unreal Engine for game development.<br>- ⚡ In my free time I play new games to gain my knowledge about unique mechanics.</p>
+<p align="left">I'm Manish Kumar Singh from Nowhere <br><br>- 🔭 I’m working as a Unreal Developer.<br>- 📚 I'm currently learning Unreal Engine for game development.<br>- ⚡ In my free time, I play new games to gain my knowledge about unique mechanics.</p>
 
 ###
 
@@ -33,13 +33,13 @@
 ###
 
 <div align="left">
-  <img src="[https://icons8.com/icon/40670/c-programming](https://icons8.com/icon/40670/c-programming)" height="40" alt="cpp logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="40" alt="C logo"  />
   <img width="12" />
-  <img src="https://icons8.com/icon/40669/c%2B%2B" height="40" alt="c logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="40" alt="C++ logo"  />
   <img width="12" />
-  <img src="https://icons8.com/icon/38240/unreal-engine" height="40" alt="unreal logo"  />
-  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Unreal_Engine_Logo.svg" height="40" alt="Unreal Engine logo"  />
 </div>
 
 ###
+
 
