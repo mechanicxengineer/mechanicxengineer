@@ -33,19 +33,13 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/cpp-original-wordmark.svg" height="40" alt="cpp logo"  />
+  <img src="https://icons8.com/icon/40670/c-programming" height="40" alt="cpp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://icons8.com/icon/40669/c%2B%2B" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://icons8.com/icon/38240/unreal-engine" height="40" alt="unreal logo"  />
+  
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
