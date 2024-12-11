@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  ![Visitor Count](https://profile-counter.glitch.me/{mechanicxengineer}/count.svg)
 </div>
 
 ###
