@@ -33,7 +33,7 @@
 ###
 
 <div align="left">
-  <img src="https://icons8.com/icon/40670/c-programming" height="40" alt="cpp logo"  />
+  <img src="[https://icons8.com/icon/40670/c-programming](https://icons8.com/icon/40670/c-programming)" height="40" alt="cpp logo"  />
   <img width="12" />
   <img src="https://icons8.com/icon/40669/c%2B%2B" height="40" alt="c logo"  />
   <img width="12" />
