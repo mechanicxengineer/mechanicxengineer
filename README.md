@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Manish Kumar Singh from Nowhere <br><br>- 🔭 I’m working as a Unreal Developer.<br>- 📚 I'm currently learning Unreal Engine for game development.<br>- ⚡ In my free time, I play new games to gain my knowledge about unique mechanics.</p>
+<p align="left">I'm Manish Kumar Singh <br><br>- 🔭 I’m working as a Unreal Developer.<br>- 📚 I'm currently learning Unreal Engine for game development.<br>- ⚡ In my free time, I play new games to gain my knowledge about unique mechanics.</p>
 
 ###
 
