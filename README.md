@@ -12,12 +12,6 @@
 
 ###
 
-<div align="center">
-  ![Visitor Count](https://profile-counter.glitch.me/{mechanicxengineer}/count.svg)
-</div>
-
-###
-
 <h1 align="center">Hi There 👋</h1>
 
 ###
