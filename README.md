@@ -33,7 +33,7 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="40" alt="C++ logo"  />
   <img width="12" />
-  <img src="https://icon-library.com/images/unreal-engine-icon/unreal-engine-icon-4.jpg" height="40" alt="Unreal Engine logo" />
+  <img src="https://png.pngitem.com/pimgs/s/343-3439402_unreal-engine-logo-unreal-engine-logo-png-transparent.png" height="40" alt="Unreal Engine logo" />
 </div>
 
 ###
